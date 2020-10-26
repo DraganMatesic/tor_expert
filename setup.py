@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 
-setup(name='crawlers_sm',
-      version='0.1.0',
-      description='Gathering anime data',
+setup(name='tor_expert',
+      version='0.0.1',
+      description='Using tor expert as service',
       author='Dragan Matesic',
       author_email='dragan.matesic@gmail.com',
       license='MIT',
