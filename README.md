@@ -26,4 +26,4 @@ Activate by simply calling this command ```C:\Users\YourUsername\Envs\myproject\
 - import tor_expert ```from tor_expert import tor, settings```
 - then we need to install tor expert this is only done once or if you want to reinstall it. To do this we need to write the following line ```tor.install()```
 - by default tor expert directory will be installed ```C:\Users\YourUsername\Documents\Tor```
-- now you are ready to crawl data, check crawler_example.py to see an example of usage.
+- now you are ready to crawl data, check crawler_example.py to see an example of usage (https://github.com/DraganMatesic/tor_expert/tree/master/examples).
